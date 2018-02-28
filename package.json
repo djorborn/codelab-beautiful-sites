@@ -8,5 +8,17 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "live-server": "^1.2.0"
-  }
+  },
+  "description": "Me following the google codelab Building Beautiful Sites Faster with Material Components for the web",
+  "main": "index.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djorborn/codelab-beautiful-sites.git"
+  },
+  "author": "djorborn",
+  "bugs": {
+    "url": "https://github.com/djorborn/codelab-beautiful-sites/issues"
+  },
+  "homepage": "https://github.com/djorborn/codelab-beautiful-sites#readme"
 }
